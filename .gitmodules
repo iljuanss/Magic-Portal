@@ -1,3 +1,6 @@
 [submodule "magic_portal/themes/hugo-theme-relearn"]
 	path = magic_portal/themes/hugo-theme-relearn
 	url = https://github.com/McShelby/hugo-theme-relearn
+[submodule "magic_portal/themes/hugo-chart"]
+	path = magic_portal/themes/hugo-chart
+	url = https://github.com/AdamFermier/hugo-chart.git
